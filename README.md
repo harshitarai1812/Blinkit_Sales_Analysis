@@ -42,7 +42,7 @@ Performed using Pandas, NumPy, Matplotlib, and Seaborn:
 * Power BI 
 * Microsoft Excel (Initial data review)
 ## Dashboard Link
- https://candle-gosling-511.notion.site/Data-Analyst-Roadmap-2026-By-Data-With-Baraa-2f034b251f1280fdbf24d23dfe32a15e?pvs=149
+ https://app.powerbi.com/view?r=eyJrIjoiYmI5M2JhYTMtOWQzZC00OTBjLTg4NTUtZTdjZTZhMTc2MTA2IiwidCI6ImQ5OTRjYjA2LTljOTYtNGUxMC05YTQ2LTg4ZGM1OTEyNjc0ZCIsImMiOjZ9
 ## Future Improvements
 * Add profit margin analysis
 * Perform customer segmentation
